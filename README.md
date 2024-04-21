@@ -1,4 +1,4 @@
-# Restaurant_Order_Analysis
+# Restaurant_Operations_Analysis
 
 ## Project Description
 
